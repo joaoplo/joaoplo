@@ -10,3 +10,7 @@ Atualmente estudante do primeiro semestre de Análise e Desenvolvimento de Siste
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoplo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+# Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaoplo&repo=joaoplo.github.io)](https://github.com/anuraghazra/github-readme-stats)
