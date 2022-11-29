@@ -15,5 +15,4 @@ Atualmente estudante do primeiro semestre de Análise e Desenvolvimento de Siste
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaoplo&repo=joaoplo.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-' alt ='Linkedin' height ='30'>](https://www.linkedin.com/in/joão-pedro-lima-de-oliveira-508947249/)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt ='Linkedin' height ='30'>](https://www.linkedin.com/in/joão-pedro-lima-de-oliveira-508947249/)
