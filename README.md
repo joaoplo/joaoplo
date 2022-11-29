@@ -9,3 +9,4 @@ Atualmente estudante do primeiro semestre de Análise e Desenvolvimento de Siste
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoplo)](https://github.com/anuraghazra/github-readme-stats)
