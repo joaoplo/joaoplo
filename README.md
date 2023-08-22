@@ -2,7 +2,7 @@
 
 # Biografia
 
-Atualmente estudante do segundo semestre de Análise e Desenvolvimento de Sistemas do CEUB, buscando as primeiras oportunidades como desenvolvedor.
+Atualmente estudante do terceiro semestre de Análise e Desenvolvimento de Sistemas do CEUB, realizando estágio, na POUPEX, com foco em Back-End. 
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
